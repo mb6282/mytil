@@ -1,6 +1,1 @@
-
-Hi samsung!
-
-plus test
-Hi samsung!
-
+Hi git!
