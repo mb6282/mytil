@@ -1,1 +1,2 @@
-A 수정합니다.
+Hi git!
+Hello git!
